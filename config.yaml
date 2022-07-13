@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://yunranchen.netlify.app
 theme: hugo-apero
 languageCode: en
 title: Yunran Chen
