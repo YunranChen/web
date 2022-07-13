@@ -1,0 +1,133 @@
+baseURL: /
+theme: hugo-apero
+languageCode: en
+title: Yunran Chen
+author: Yunran Chen
+copyright: ''
+googleAnalytics: ''
+disqusShortname: ''
+metaDataFormat: yaml
+footnoteReturnLinkContents: '&#8617;'
+paginate: 5
+preserveTaxonomyNames: yes
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+enableEmoji: yes
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      hardwraps: no
+      unsafe: yes
+  highlight:
+    style: github
+  tableOfContents:
+    endLevel: 2
+    ordered: no
+    startLevel: 2
+params:
+  custom_theme: ''
+  customheadingFontFamily: Fraunces
+  customtextFontFamily: Commissioner
+  description: Homepage of Yunran Chen
+  favicon: /img/favicon.ico
+  headingFontFamily: sans-serif
+  logo: /img/blogophonic-mark-dark.png
+  mainSections:
+    - blog
+    - project
+    - talk
+  math:
+    renderer: katex
+  navallcaps: yes
+  orgLocal: Duke University
+  orgName: Yunran Chen
+  sharing_image: /img/papillons.jpg
+  social:
+    - icon: envelope
+      icon_pack: fas
+      url: mailto:yc304@duke.edu
+    - icon: github
+      icon_pack: fab
+      url: https://github.com/YunranChen
+    - icon: instagram
+      icon_pack: fab
+      url: https://www.instagram.com/yunrancheno/
+  socialInFooter: yes
+  socialInHeader: no
+  textFontFamily: sans-serif
+  theme: forest
+  utterances:
+    issue_term: pathname
+    label: 'comments :crystal_ball:'
+    repo_name: YunranChen/web
+    theme: boxy-light
+    use_utterances: yes
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+menu:
+  footer:
+    - name: License
+      title: License
+      url: /license/
+      weight: 1
+    - name: Contact
+      title: Contact form
+      url: /contact/
+      weight: 2
+  header:
+    - name: About
+      title: About
+      url: /about/
+      weight: 1
+    - name: Research
+      title: Research
+      url: /research/
+      weight: 2
+    - name: Teaching
+      title: Teaching Portfolio
+      url: /teaching/
+      weight: 3
+    - name: Publications
+      title: Publications
+      url: /publication/
+      weight: 4
+    - name: Talks
+      title: Talks and Posters
+      url: /talk/
+      weight: 5
+    - name: Blog
+      title: Blogs and Projects
+      url: /blog/
+      weight: 6
+    - name: CV
+      title: CV
+      url: /yunranchen-cv.pdf
+      weight: 7
+privacy:
+  disqus:
+    disable: no
+  googleAnalytics:
+    anonymizeIP: yes
+    disable: no
+    respectDoNotTrack: yes
+  instagram:
+    disable: no
+    simple: yes
+  twitter:
+    disable: no
+    enableDNT: yes
+    simple: no
+  vimeo:
+    disable: no
+    enableDNT: yes
+    simple: yes
+  youtube:
+    disable: no
+    privacyEnhanced: yes
