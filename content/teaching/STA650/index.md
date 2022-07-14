@@ -15,8 +15,8 @@ links:
   icon_pack: fas
   name: website
   url: http://www2.stat.duke.edu/courses/Spring19/sta650.001/
-- icon: github
-  icon_pack: fab
+- icon: newspaper
+  icon_pack: far
   name: lab materials
   url: https://yunranchen.github.io/intro-net-r/
 location: Durham, USA
@@ -25,13 +25,20 @@ subtitle: Graduate-level course introducing statistical theory and methods for s
 title: STA450/650 Theory and Methods for Social Network Analysis
 ---
 
-As a teaching assistant, I hold 75-min lab weekly. I designed all the lab materials and knitted it using bookdown package: [Introduction to Network Analysis using R](https://yunranchen.github.io/intro-net-r/). 
+I served as a teaching assistant, holding a 75-min lab and 2-hr office hour weekly. I prepared a detailed tutorial for my lab and knitted it using `bookdown` package, which covers the basic network analysis using R.
 
 ## Outline
 
-- Basic introduction on network objects. R packages including `igraph`, `statnet` (including `sna`, `network`).
-- Collect network data.
-  -   Web API requesting (Twitter, Reddit, IMDB, or more).  
-  -   Useful websites (SNAP, or more)
-  -   Visualization (static and dynamic networks).
-- Network analysis using package `amen`.
+- Basic introduction on network objects.
+  - R packages including `igraph`, `statnet` (including `sna`, `network` packages).
+- Collect network data:
+  - API requests using R packages (`rtweet`, `Rfacebook`, `RedditExtractoR`, `imdbapi`, `omdbapi`).
+  - API requests from R directly (`rjson`, `jsonlite`)
+  - Useful websites: (SNAP, [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis))
+- Fancy visualization (static and dynamic networks):
+  - ggplot2 version: `ggnet2`, `geomnet`, `ggnetwork`
+  - Interactive network visualization: `ggplot2` + `plotly`, `visNetwork`
+  - Dynamic network visualization: `ggnetwork`, `ggplot2` + `gganimate`, `ndtv`
+- Network analysis using package `amen`, `statnet`.
+
+
