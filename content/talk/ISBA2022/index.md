@@ -1,24 +1,22 @@
 ---
-author: Alison Hill
+author: Yunran Chen
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- poster
+date: "2018-11-08"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+event: AISC 2018
+event_url: https://mathstats.uncg.edu/aisc/2018-conference/home/
+excerpt: Here is a talk I gave on testing Poisson versus Poisson mixtures with application to neuronscience. 
 featured: true
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
+  name: AISC 2018
+  url: https://mathstats.uncg.edu/aisc/2018-conference/home/
+- icon: newspaper
+  icon_pack: far
+  name: slides
   url: https://github.com/apreshill/bakeoff
 location: Sydney, Australia
 show_post_time: false

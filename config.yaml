@@ -108,7 +108,7 @@ menu:
       weight: 6
     - name: CV
       title: CV
-      url: /yunranchen-cv.pdf
+      url: /assets/yc-cv.pdf
       weight: 7
 privacy:
   disqus:
