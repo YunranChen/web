@@ -1,7 +1,7 @@
 ---
 author: Yunran Chen
 categories:
-- workshop
+- teaching
 date: "2019-01-09"
 date_end: "2019-05-04"
 draft: false
@@ -25,4 +25,13 @@ subtitle: Graduate-level course introducing statistical theory and methods for s
 title: STA450/650 Theory and Methods for Social Network Analysis
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+As a teaching assistant, I hold 75-min lab weekly. I designed all the lab materials and knitted it using bookdown package: [Introduction to Network Analysis using R](https://yunranchen.github.io/intro-net-r/). 
+
+## Outline
+
+- Basic introduction on network objects. R packages including `igraph`, `statnet` (including `sna`, `network`).
+- Collect network data.
+  -   Web API requesting (Twitter, Reddit, IMDB, or more).  
+  -   Useful websites (SNAP, or more)
+  -   Visualization (static and dynamic networks).
+- Network analysis using package `amen`.
