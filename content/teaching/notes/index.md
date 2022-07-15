@@ -2,27 +2,20 @@
 author: Yunran Chen
 categories:
 - teaching
-date: "2022-05-11"
-date_end: "2022-06-23"
+date: "2022-07-15"
 draft: false
-event: Duke University (Summer 2022)
-event_url: ""
-excerpt: Undergraduate-level course introducing linear and logistic regressions with practice using R
+excerpt: Collections of intuitions and notes behind statistics and mathematics
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: dungeon
   icon_pack: fas
-  name: website
+  name: rabbit hole
   url: https://yunranchen.github.io/STA210Summer/
-- icon: github
-  icon_pack: fab
-  name: Github Classroom
-  url: https://github.com/STA210-Summer22
 location: Durham, USA
 show_post_time: false
-subtitle: Undergraduate-level course introducing linear and logistic regressions with practice using R
-title: Intuition
+subtitle: Collections of intuitions and notes behind statistics and mathematics
+title: Intuitions and Notes
 ---
 
 ## Course Objectives

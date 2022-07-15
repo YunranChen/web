@@ -4,6 +4,9 @@ categories:
 - poster
 date: "2022-06-26"
 date_end: "2022-07-01"
+show_button_links: true
+show_post_date: true
+show_post_thumbnail: true
 draft: false
 event: ISBA 2022
 event_url: https://isbawebmaster.github.io/ISBA2022/

@@ -13,6 +13,10 @@ links:
   icon_pack: far
   name: slides
   url: /blog/heart.pdf
+- icon: file
+  icon_pack: far
+  name: report
+  url: /blog/heart_report.pdf
 ---
 
 The New York Times exposed teh extremely high mortality rate of surgical program of UNC Children's Hospital. This draws us attention on how to evaluate such surgical programs. Evaluation on the surgical programs is hard due to three main reasons: (1) unavailable influencing factors (2) volume-based performance of each hospital (3) case-mix pattern of each hospital. We consider a hierachical model allowing for information sharing among hospitals and addressing the aforementioned characteristics. We consider a hierachical model shrinking the observed mortality rates towards the expected mortality rates based on its volume. Based on estimation, we evalue the performance of UNC Children's Hospital and found it was ranked as the bottom 3 based on O/E score, suggesting they should suspend complex heart procedures.

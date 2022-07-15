@@ -13,6 +13,10 @@ links:
   icon_pack: far
   name: slides
   url: /blog/gabbies.pdf
+- icon: file
+  icon_pack: far
+  name: report
+  url: /blog/gabbies_report.pdf
 ---
 
 Gabapentin is used to treat certain types of seizures and nerve pain. It has euphoric effects and is abused for getting high. Here we conduct a mixed effect model to explore potential factors on the street price of Gabapentin.

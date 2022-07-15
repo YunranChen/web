@@ -11,6 +11,10 @@ layout: single
 subtitle: Case study exploring relation between drinking and smoking to academic performance
 title: Social Survey Analysis
 links:
+- icon: newspaper
+  icon_pack: far
+  name: slides
+  url: /blog/survey_slides.pdf
 - icon: file
   icon_pack: far
   name: report

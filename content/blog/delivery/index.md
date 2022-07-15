@@ -1,19 +1,23 @@
 ---
 author: Yunran Chen
 categories:
-- regression
-- correlated predictors
-date: "2020-01-23"
+- spatial
+- Bayesian
+date: "2020-02-06"
 draft: false
-excerpt: Case study of effects of DDE and PCB exposure on premature delivery
+excerpt: Case study of price and popularity of Airbnb listings in NYC.
 layout: single
-subtitle: Case study of effects of DDE and PCB exposure on premature delivery
-title: Regression analysis for highly correlated predictors 
+subtitle: Case study of price and popularity of Airbnb listings in NYC
+title: Spatial Bayesian Regression
 links:
+- icon: newspaper
+  icon_pack: far
+  name: slides
+  url: /blog/airbnb.pdf
 - icon: file
   icon_pack: far
   name: report
-  url: /blog/delivery.pdf
+  url: /blog/airbnb_report.pdf
 ---
 
-DDE and PCB chemicals were proven to be toxic and may relate to premature delivery risk. The dataset contains concentration doses for DDE and 12 PCB members, which are highly correlated. Here we consider a two-stage regression analysis to apply PCA to extract the main components (decorrelate) of 12 PCB members and apply regression analysis.
+We aim to explore potential factors of price and popularity of Airbnb listings in New York City. Locations will be the crucial factor. In order to incorporate neighborhoods' influence, we consider CARBayes: Multilevel Conditional Autoregressive Bayesian Model to capture the variations among Airbnb listings.
