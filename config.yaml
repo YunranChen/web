@@ -38,9 +38,11 @@ params:
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
   mainSections:
-    - blog
-    - project
+    - research
+    - teaching
+    - publication
     - talk
+    - blog
   math:
     renderer: katex
   navallcaps: yes
@@ -76,14 +78,10 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: License
-      title: License
-      url: /license/
-      weight: 1
     - name: Contact
       title: Contact form
       url: /contact/
-      weight: 2
+      weight: 1
   header:
     - name: About
       title: About
@@ -113,6 +111,10 @@ menu:
       title: CV
       url: /yc-cv.pdf
       weight: 7
+    - name: Contact
+      title: Contact me
+      url: /elements/
+      weight: 8
 privacy:
   disqus:
     disable: no

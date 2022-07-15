@@ -5,22 +5,15 @@ cascade:
   show_comments: false
   show_post_date: false
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View all research
     text_link_url: /research/
-description: 
+description: I aim to serve as a bridge to connect various disciplines through developing statistical methods and models and spread the concepts of statistics to the public.
 layout: list-grid
 show_author_byline: false
-show_button_links: false
+show_button_links: true
 show_post_date: false
 show_post_thumbnail: true
-sidebar:
-  author: Yunran Chen
-  description: Research interests to grow
-  show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-  title: Research interests to grow
 title: Research interests to grow
 ---
 
