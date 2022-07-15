@@ -7,7 +7,7 @@ date_end: "2019-05-04"
 draft: false
 event: Duke University (Spring 2019)
 event_url: ""
-excerpt: Graduate-level course introducing statistical theory and methods for social network analysis
+excerpt: TA for a graduate-level course introducing statistical theory and methods for social network analysis
 featured: true
 layout: single
 links:
@@ -21,7 +21,7 @@ links:
   url: https://yunranchen.github.io/intro-net-r/
 location: Durham, USA
 show_post_time: false
-subtitle: Graduate-level course introducing statistical theory and methods for social network analysis
+subtitle: TA for a graduate-level course introducing statistical theory and methods for social network analysis
 title: STA450/650 Theory and Methods for Social Network Analysis
 ---
 

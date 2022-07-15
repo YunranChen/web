@@ -7,7 +7,7 @@ date_end: "2022-06-23"
 draft: false
 event: Duke University (Summer 2022)
 event_url: ""
-excerpt: Undergraduate-level course introducing linear and logistic regressions with practice using R
+excerpt: ROI of an undergraduate-level course introducing linear and logistic regressions with practice using R
 featured: true
 layout: single
 links:
@@ -21,7 +21,7 @@ links:
   url: https://github.com/STA210-Summer22
 location: Durham, USA
 show_post_time: false
-subtitle: Undergraduate-level course introducing linear and logistic regressions with practice using R
+subtitle: ROI of an undergraduate-level course introducing linear and logistic regressions with practice using R
 title: STA210 Regression Analysis
 ---
 
