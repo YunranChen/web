@@ -7,7 +7,7 @@ categories:
 date: "2018-05-01"
 date_end: "present"
 draft: false
-excerpt: ""
+excerpt: 
 featured: true
 layout: single-sidebar
 links:
