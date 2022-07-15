@@ -13,7 +13,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: AISC 2018
-  url: https://mathstats.uncg.edu/aisc/2018-conference/home/
+  url: https://magazine.amstat.org/blog/2018/12/01/ncchapter_2018/
 - icon: newspaper
   icon_pack: far
   name: slides
