@@ -34,21 +34,21 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: Homepage of Yunran Chen
-  favicon: /img/favicon.ico
+  favicon: /img/pecan.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/pecan.png
   mainSections:
     - research
     - teaching
-    - publication
     - talk
-    - blog
   math:
     renderer: katex
   navallcaps: yes
   orgLocal: Duke University
   orgName: Yunran Chen
   sharing_image: /img/papillons.jpg
+  images:
+  - img/pecanme.png
   social:
     - icon: envelope
       icon_pack: fas
@@ -77,11 +77,6 @@ taxonomies:
   series: series
   tag: tags
 menu:
-  footer:
-    - name: Contact
-      title: Contact form
-      url: /contact/
-      weight: 1
   header:
     - name: About
       title: About
