@@ -23,12 +23,19 @@ subtitle: ""
 title: Network Analysis
 ---
 
+### Publications
 
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
+- To be submitted: Chen, Y. and A. Volfovsky. Dynamic Latent Space Model on Directed Network
 
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
+### Introduction
+
+Dynamic network data have become ubiquitous in social network analysis, with new information becoming available that capture when friendships form, when corporate transactions happen and when countries interact with each other. Flexible and interpretable models are needed in order to properly capture the behavior of individuals in such networks. We extend the directed additive and multiplicative effects network model to the continuous time setting by introducing treating the time-evolution of model parameters using Gaussian processes. Importantly we incorporate both time-varying covariates and node-level additive random effects that aid in increasing model realism. We demonstrate the usefulness and flexibility of this model on a longitudinal dataset of formal state visits between the world’s 18 largest economies. Not only does the model offer high quality predictive accuracy, but the latent parameters naturally map onto world events that are not directly measured in the data.
+
+### Interested findings
 
 {{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
 
----
+
+### Future work
+
 
