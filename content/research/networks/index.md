@@ -7,7 +7,7 @@ categories:
 date: "2018-05-01"
 date_end: "present"
 draft: false
-excerpt: 
+excerpt: Dynamic network data have become ubiquitous in social network analysis, with new information becoming available that capture when friendships form, when corporate transactions happen and when countries interact with each other. Flexible and interpretable models are needed in order to properly capture the behavior of individuals in such networks. 
 featured: true
 layout: single-sidebar
 links:
@@ -29,13 +29,11 @@ title: Network Analysis
 
 ### Introduction
 
-Dynamic network data have become ubiquitous in social network analysis, with new information becoming available that capture when friendships form, when corporate transactions happen and when countries interact with each other. Flexible and interpretable models are needed in order to properly capture the behavior of individuals in such networks. We extend the directed additive and multiplicative effects network model to the continuous time setting by introducing treating the time-evolution of model parameters using Gaussian processes. Importantly we incorporate both time-varying covariates and node-level additive random effects that aid in increasing model realism. We demonstrate the usefulness and flexibility of this model on a longitudinal dataset of formal state visits between the world’s 18 largest economies. Not only does the model offer high quality predictive accuracy, but the latent parameters naturally map onto world events that are not directly measured in the data.
+{{< figure src="network1001korjpn.png" alt="korjpn" caption="A longitudinal dataset of formal state visits between the world’s 18 largest economies." >}}
 
-### Interested findings
+Dynamic network data have become ubiquitous in social network analysis, with new information becoming available that capture when friendships form, when corporate transactions happen and when countries interact with each other. Flexible and interpretable models are needed in order to properly capture the behavior of individuals in such networks. 
 
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
+We extend the directed additive and multiplicative effects network model to the continuous time setting by introducing treating the time-evolution of model parameters using Gaussian processes. Importantly we incorporate both time-varying covariates and node-level additive random effects that aid in increasing model realism. Not only does the model offer high quality predictive accuracy, but the latent parameters naturally map onto world events that are not directly measured in the data.
 
-
-### Future work
 
 
