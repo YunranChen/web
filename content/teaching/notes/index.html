@@ -1,0 +1,40 @@
+---
+author: Yunran Chen
+categories:
+- teaching
+date: "2022-07-14"
+draft: false
+excerpt: A collections of intuitions and notes behind statistics and mathematics.
+featured: true
+layout: single
+links:
+- icon: dungeon
+  icon_pack: fas
+  name: rabbit hole
+  url: 
+show_post_time: true
+title: Teaching Notes
+---
+
+
+
+<div id="origin-of-regression-analysis" class="section level2">
+<h2>Origin of regression analysis</h2>
+<div class="figure">
+<img src="hoh.jpeg" style="width:60.0%" alt="" />
+<p class="caption">Heredity of height</p>
+</div>
+<p>The word “regression” means “going back” in Latin. In 1886, Francis Galton observed a very interesting phenomenon: the offspring of tall parents were shorter than their parents on average, and, the offspring of short parents were taller than their parents. He found that the mean height of offspring is close to the mean height of all offspring, and named the phenomenon as “regression towards mediocrity (mean)”. This is the first time the word “regression” has appeared as a statistical term in literature. Nowadays, regression analysis refers to statistical methods explaining relationship between multiple variables of interests.</p>
+<p>The simplest form of regression analysis is a linear regression between two variables. If we want to explore relation between predictor x and response variable y, we would like to visualize them using a scatter plot. A simple linear regression aims to find a line presenting these scatters. If we consider ordinary least square method, the line would go across the center of the scatter cloud, minimize the sum of squared residuals. For multiple predictors (<em>p</em> predictors), the scatters lie in a <em>p</em>-dimension space. For a nonlinear regression, we aim to find a curve to fit these scatters.</p>
+</div>
+<div id="help-me-intrepret-regression-analysis" class="section level2">
+<h2>Help me intrepret regression analysis</h2>
+<p>Download the notes: <a href="/notes/coef.pdf"><svg viewBox="0 0 384 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg"> <path d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm160-14.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"></path></svg></a></p>
+<p>Regression analysis is one of the most useful and powerful statistical tools for its great interpretability. Start from a simple linear regression with only one predictor, suppose we find a line <span class="math inline">\(y=\hat{\beta}_1 x+\hat{\beta}_0\)</span> to represent the scatters. The coefficients <span class="math inline">\(\hat{\beta}_0\)</span> and <span class="math inline">\(\hat{\beta}_1\)</span> are intercept and slope respectively. Recall that an intercept is the value of y when <span class="math inline">\(x=0\)</span>.</p>
+<p>To be edited.</p>
+</div>
+<div id="geometric-interpretation-of-multi-colinearity" class="section level2">
+<h2>Geometric interpretation of multi-colinearity</h2>
+<p>Download the notes: <a href="/notes/review_slr.pdf"><svg viewBox="0 0 384 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg"> <path d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm160-14.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"></path></svg></a></p>
+<p>To be edited</p>
+</div>
