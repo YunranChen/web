@@ -4,7 +4,7 @@ categories:
 - Neuroscience
 - Nonparametric Bayesian
 - Bayesian Factor model
-date: "2022-07-30"
+date: "2022-07-29"
 date_end: "present"
 draft: false
 excerpt: A single neuron may encode information by fluctuating between two stimuli from trials to trials, or present a 'time division multiplexing' within a trial. Such turn-taking activities presented by individuals are shown to present a coordination pattern in neural population. We aim to develop statistical methods and models to explore how neuron population coordinate to preserve multiple simultaneously presented stimuli.
