@@ -1,14 +1,13 @@
 ---
-author: Yunran 
+author: Yunran Chen
 categories:
-- Neuroscience
+- Networks
 - Nonparametric Bayesian
-- Bayesian Factor model
 date: "2018-05-01"
 date_end: "present"
 draft: false
 excerpt: Dynamic network data have become ubiquitous in social network analysis, with new information becoming available that capture when friendships form, when corporate transactions happen and when countries interact with each other. Flexible and interpretable models are needed in order to properly capture the behavior of individuals in such networks. 
-featured: true
+featured: false
 layout: single-sidebar
 links:
 - icon: github
