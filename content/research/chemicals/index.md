@@ -6,7 +6,7 @@ categories:
 date: "2022-07-29"
 date_end: "present"
 draft: false
-excerpt: A single neuron may encode information by fluctuating between two stimuli from trials to trials, or present a 'time division multiplexing' within a trial. Such turn-taking activities presented by individuals are shown to present a coordination pattern in neural population. We aim to delvelop statistical methods and models to explore how neuron population coordinate to preserve multiple simultaneously presented stimuli.
+excerpt: We aim to summarize advanced statistical approaches for analysis of complex mixtures and knit them to R tutorials to make them accessible to researchers without extensive statistics or mathematics backgrounds. This will include online tutorials to introduce advanced statistical approaches to scientists and to provide examples of their use using national survey data..
 featured: false
 layout: single
 links:
