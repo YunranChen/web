@@ -12,12 +12,11 @@ tags:
 
 ## Paper
 
-- In progress: Chen, Y. and S. T. Tokdar. Bayesian estimation of block correlation matrices with an unknown block assignment
-- In progress: Chen, Y. and S. T. Tokdar. Modeling neural population coordination via a block correlation matrix of fluctuating weights (poster)
-- In progress: Chen, Y. and S. T. Tokdar. Testing among different types of second of stochasticities
-- To be submitted: Chen, Y. and A. Volfovsky. Dynamic Latent Space Model on Directed Network
+-   Chen, Y. and S. T. Tokdar. (2024). Bayesian estimation of block covariance matrices, *in preparation*
+-   Chen, Y. and S. T. Tokdar. (2023). Detection of code juggling with spike count data analysis, *to be submitted*
+-   Chen, Y. and A. Volfovsky. (2023). Identifying world events in dynamic international relations data using a latent space model, [arXiv](https://arxiv.org/abs/2305.07776)
 
 ## Thesis
 
-- Master's Thesis: Chen, Y. (2019) Testing Between Different Types of Poisson Mixtures with Applications to Neuroscience [pdf](https://dukespace.lib.duke.edu/dspace/handle/10161/18892)
-- Bachelor's Thesis: Chen, Y. and C. Lin. (2017) Pairwise estimation of mixed spatial autoregressive model with sampled network data [pdf(in Chinese)](/thesis/bthesis.pdf)
+-   Master's Thesis: Chen, Y. (2019) Testing Between Different Types of Poisson Mixtures with Applications to Neuroscience [pdf](https://dukespace.lib.duke.edu/dspace/handle/10161/18892)
+-   Bachelor's Thesis: Chen, Y. and C. Lin. (2017) Pairwise estimation of mixed spatial autoregressive model with sampled network data [pdf(in Chinese)](/thesis/bthesis.pdf)
