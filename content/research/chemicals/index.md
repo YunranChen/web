@@ -13,7 +13,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://chemicalmix.netlify.app/
+  url: https://chem-mix.netlify.app/
 - icon: github
   icon_pack: fab
   name: R package
